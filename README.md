@@ -21,12 +21,18 @@ Hospital Management System Multi-User Interface using Django 4
 
 * Open the repo in terminal and run the following commands -
 
+* Installation of requirements
+
         pip install -r requirements.txt
+
+* Make migration and update database code
 
         python manage.py makemigrations
 
+* Pust migration to database
         python manage.py migrate
- 
+
+* Run server locally
         python manage.py runsever
 
 * Open http://127.0.0.1:8000/ in your browser, login and explore
