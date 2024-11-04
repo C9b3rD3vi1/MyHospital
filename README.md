@@ -12,6 +12,7 @@ Hospital Management System Multi-User Interface using Django 4
 ## Getting Started
 
 * Clone this repository.
+
     git clone https://github.com/C9b3rD3vi1/MyHospital.git
 
 * Set up a python virtual environment and activate it in your terminal.
