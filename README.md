@@ -25,5 +25,4 @@ Hospital Management System Multi-User Interface using Django 4
  
         python manage.py runsever
 
-
 * Open http://127.0.0.1:8000/ in your browser, login and explore
