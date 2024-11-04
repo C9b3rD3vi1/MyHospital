@@ -5,7 +5,7 @@ Hospital Management System Multi-User Interface using Django 4
 ## Development Environment
 
 * Django
-* Python - 3.8.2
+* Python
 * Database - sqlite3
 * IDE - VS Code (Preferred)
 
